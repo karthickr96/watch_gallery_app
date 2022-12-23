@@ -1,0 +1,17 @@
+.popular-items-container{
+    max-width: max-content;
+}
+.add-to-cart{
+    padding: 8px;
+    width: 270px;
+    height: 50px;
+    border: none;
+    background-color: brown;
+    color: aliceblue;
+    font-size: 18px;
+    letter-spacing: 9px;
+    font-family: "Josefin Sans",sans-serif;
+    text-align: center;
+    
+
+}

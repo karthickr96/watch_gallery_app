@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "image": "https://preview.colorlib.com/theme/timezone/assets/img/gallery/new_product1.png",
+        "title": "Thermo Ball Etip Gloves",
+        "price": "$ 45,743"
+    },
+    {
+        "id": 2,
+        "image": "https://preview.colorlib.com/theme/timezone/assets/img/gallery/new_product2.png",
+        "title": "Thermo Ball Etip Gloves",
+        "price": "$ 45,743"
+    },
+    {
+        "id": 3,
+        "image": "https://preview.colorlib.com/theme/timezone/assets/img/gallery/new_product3.png",
+        "title": "Thermo Ball Etip Gloves",
+        "price": "$ 45,743"
+    }
+]

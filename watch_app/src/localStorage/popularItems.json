@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "image": "https://preview.colorlib.com/theme/timezone/assets/img/gallery/popular1.png",
+        "title": "Thermo Ball Etip Gloves",
+        "price": "$ 45,743"  
+    },
+    {
+        "id": 2,
+        "image": "https://preview.colorlib.com/theme/timezone/assets/img/gallery/popular2.png",
+        "title": "Thermo Ball Etip Gloves",
+        "price": "$ 45,743"  
+    },
+    {
+        "id": 3,
+        "image": "https://preview.colorlib.com/theme/timezone/assets/img/gallery/popular3.png",
+        "title": "Thermo Ball Etip Gloves",
+        "price": "$ 45,743"  
+    },
+    {
+        "id": 4,
+        "image": "https://preview.colorlib.com/theme/timezone/assets/img/gallery/popular4.png",
+        "title": "Thermo Ball Etip Gloves",
+        "price": "$ 45,743"  
+    },
+    {
+        "id": 5,
+        "image": "https://preview.colorlib.com/theme/timezone/assets/img/gallery/popular5.png",
+        "title": "Thermo Ball Etip Gloves",
+        "price": "$ 45,743"  
+    },
+    {
+        "id": 6,
+        "image": "https://preview.colorlib.com/theme/timezone/assets/img/gallery/popular6.png",
+        "title": "Thermo Ball Etip Gloves",
+        "price": "$ 45,743"  
+    }
+]
